@@ -1,0 +1,7 @@
+djangorestframework
+pytest-asyncio
+django
+httpx
+pytest
+aiofiles
+aiocsv
